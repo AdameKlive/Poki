@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+    <quest name="Catches" startstorageid="91000" startstoragevalue="0">
+        <mission name="Quest 1" storageid="91000" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Złap 2 Rattaty i idź do NPC Julie w Centrum Pokemon w Saffron, żeby odebrać swoją nagrodę!" />
+            <missionstate id="1" description="Złap 2 Rattaty i idź do NPC Julie w Centrum Pokemon w Saffron, żeby odebrać swoją nagrodę!" />
+        </mission>
+        <mission name="Quest 2" storageid="91000" startvalue="1" endvalue="2">
+            <missionstate id="1" description="Złap 2 Bellsprouty i idź do NPC Julie w Centrum Pokemon w Saffron, żeby odebrać swoją nagrodę!" />
+            <missionstate id="2" description="Złap 2 Bellsprouty i idź do NPC Julie w Centrum Pokemon w Saffron, żeby odebrać swoją nagrodę!" />
+        </mission>
+        <mission name="Quest Dzienny" storageid="91000" startvalue="2" endvalue="3">
+            <missionstate id="2" description="Codzienne losowe łapanie!" />
+            <missionstate id="3" description="Codzienne losowe łapanie!" />
+        </mission>
+    </quest>
+
+    <quest name="Lugia de Vermilion" startstorageid="10200" startstoragevalue="0">
+        <mission name="Quest" storageid="10200" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Lugię, znajdującą się na wyspie na południowy zachód od Vermilion." />
+            <missionstate id="1" description="Pokonaj Lugię, znajdującą się na wyspie na południowy zachód od Vermilion." />
+        </mission>
+    </quest>
+
+    <quest name="Moltres de Cerulean" startstorageid="10201" startstoragevalue="0">
+        <mission name="Quest" storageid="10201" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Moltresa, znajdującego się na wyspie na północny wschód od Cerulean." />
+            <missionstate id="1" description="Pokonaj Moltresa, znajdującego się na wyspie na północny wschód od Cerulean." />
+        </mission>
+    </quest>
+
+    <quest name="Articuno de Snow" startstorageid="10202" startstoragevalue="0">
+        <mission name="Quest" storageid="10202" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Articuno, znajdującego się w Snow." />
+            <missionstate id="1" description="Pokonaj Articuno, znajdującego się w Snow." />
+        </mission>
+    </quest>
+
+    <quest name="Zapdos de Nostrus" startstorageid="10203" startstoragevalue="0">
+        <mission name="Quest" storageid="10203" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Zapdosa, znajdującego się w Nostrus." />
+            <missionstate id="1" description="Pokonaj Zapdosa, znajdującego się w Nostrus." />
+        </mission>
+    </quest>
+
+    <quest name="Poison Stone Lavender" startstorageid="10204" startstoragevalue="0">
+        <mission name="Quest" storageid="10204" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Muka, Arboka i Pinsira, znajdujących się na północ od Lavender." />
+            <missionstate id="1" description="Pokonaj Muka, Arboka i Pinsira." />
+        </mission>
+    </quest>
+
+    <quest name="Punch Stone Nostrus" startstorageid="10205" startstoragevalue="0">
+        <mission name="Quest" storageid="10205" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Hitmontopa i Hitmonlee, znajdujących się w Nostrus." />
+            <missionstate id="1" description="Pokonaj Hitmontopa i Hitmonlee, znajdujących się w Nostrus." />
+        </mission>
+    </quest>
+
+<quest name="Darkness Stone Cerulean" startstorageid="10209" startstoragevalue="0">
+        <mission name="Quest" storageid="10209" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Hauntera i Misdreavusa, znajdujących się na wschód od Cerulean." />
+            <missionstate id="1" description="Pokonaj Hauntera i Misdreavusa, znajdujących się na wschód od Cerulean." />
+        </mission>
+    </quest>
+
+    <quest name="Rock Stone Cerulean" startstorageid="10210" startstoragevalue="0">
+        <mission name="Quest" storageid="10210" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Gravelera, Golema i Steelixa, znajdujących się na zachód od Cerulean." />
+            <missionstate id="1" description="Pokonaj Gravelera, Golema i Steelixa, znajdujących się na zachód od Cerulean." />
+        </mission>
+    </quest>
+
+    <quest name="Enigma Stone Fuchsia" startstorageid="10211" startstoragevalue="0">
+        <mission name="Quest" storageid="10211" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Girafariga i Alakazama, znajdujących się na północny wschód od Fuchsia." />
+            <missionstate id="1" description="Pokonaj Girafariga i Alakazama, znajdujących się na północny wschód od Fuchsia." />
+        </mission>
+    </quest>
+
+    <quest name="Rock Stone Pewter" startstorageid="10212" startstoragevalue="0">
+        <mission name="Quest" storageid="10212" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Golema, Steelixa i Machampa, znajdujących się w Pewter." />
+            <missionstate id="1" description="Pokonaj Golema, Steelixa i Machampa, znajdujących się w Pewter." />
+        </mission>
+    </quest>
+
+    <quest name="Thunder Shiny Nostrus" startstorageid="10213" startstoragevalue="0">
+        <mission name="Wybór 1: Shiny Electabubzz" storageid="10213" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Minuna, Jolteona, Electabuzza i Plusle, znajdujących się w Nostrus." />
+            <missionstate id="1" description="Pokonaj Minuna, Jolteona, Electabuzza i Plusle, znajdujących się w Nostrus." />
+        </mission>
+        <mission name="Wybór 2: Shiny Jolteon" storageid="10214" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Minuna, Jolteona, Electabuzza i Plusle, znajdujących się w Nostrus." />
+            <missionstate id="1" description="Pokonaj Minuna, Jolteona, Electabuzza i Plusle, znajdujących się w Nostrus." />
+        </mission>
+    </quest>
+
+    <quest name="Shining Box Nostrus" startstorageid="10215" startstoragevalue="0">
+        <mission name="Quest" storageid="10215" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź końcową skrzynkę w labiryncie pełnym Legendarnych Pokemonów." />
+            <missionstate id="1" description="Gratulacje, udało ci się wytrzymać Legendarnym i rozwiązać dwa labirynty w jednej jaskini!" />
+        </mission>
+    </quest>
+
+    <quest name="Fire Quest Cinnabar" startstorageid="10216" startstoragevalue="0">
+        <mission name="Quest" storageid="10216" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Charizarda i Entei, znajdujących się na wyspie na południowy zachód od Cinnabar." />
+            <missionstate id="1" description="Pokonaj Charizarda i Entei, znajdujących się na wyspie na południowy zachód od Cinnabar." />
+        </mission>
+    </quest>
+
+    <quest name="Subterranea Saffron" startstorageid="10217" startstoragevalue="0">
+        <mission name="Quest" storageid="10217" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Qwilfisha, Corsolę i Gyaradosa w obszarze do nurkowania na zachód od Saffron." />
+            <missionstate id="1" description="Pokonaj Qwilfisha, Corsolę i Gyaradosa w obszarze do nurkowania na zachód od Saffron." />
+        </mission>
+    </quest>
+
+    <quest name="Earth Stone Cerulean" startstorageid="10218" startstoragevalue="0">
+        <mission name="Quest" storageid="10218" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Marowaka, Sandslasha, Kabutopsa i Kangaskhana, znajdujących się na wschód od Cerulean." />
+            <missionstate id="1" description="Pokonaj Marowaka, Sandslasha, Kabutopsa i Kangaskhana, znajdujących się na wschód od Cerulean." />
+        </mission>
+    </quest>
+
+    <quest name="Fire Stone Cinnabar" startstorageid="10219" startstoragevalue="0">
+        <mission name="Quest" storageid="10219" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Charizarda, Arcanine i Flareona, znajdujących się na wyspie na południowy zachód od Cinnabar." />
+            <missionstate id="1" description="Pokonaj Charizarda, Arcanine i Flareona, znajdujących się na wyspie na południowy zachód od Cinnabar." />
+        </mission>
+    </quest>
+
+    <quest name="Rock Stone Saffron" startstorageid="10220" startstoragevalue="0">
+        <mission name="Quest" storageid="10220" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Gravelera, Golema, Steelixa i Crystal Onixa, znajdujących się na wschód od Saffron." />
+            <missionstate id="1" description="Pokonaj Gravelera, Golema, Steelixa i Crystal Onixa, znajdujących się na wschód od Saffron." />
+        </mission>
+    </quest>
+
+    <quest name="Annihilator Fuchsia" startstorageid="10221" startstoragevalue="0">
+        <mission name="Wybór 1: Shiny Porygon" storageid="10221" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy na północny wschód od Fuchsia." />
+            <missionstate id="1" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy na północny wschód od Fuchsia." />
+        </mission>
+        <mission name="Wybór 2: Shiny Hypno" storageid="10222" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy." />
+            <missionstate id="1" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy." />
+        </mission>
+        <mission name="Wybór 3: Shiny Alakazam" storageid="10223" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy." />
+            <missionstate id="1" description="Pokonaj 2 Moltresy i zadaj więcej obrażeń niż pozostali 4 w grupie 4 graczy." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Darkness Stone" startstorageid="10224" startstoragevalue="0">
+        <mission name="Quest" storageid="10224" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Gengara, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Gengara, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Enigma Stone Nostrus" startstorageid="10225" startstoragevalue="0">
+        <mission name="Quest" storageid="10225" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Mew, Mewtwo, Shiny Mew i Shiny Mewtwo na północ od Nostrus." />
+            <missionstate id="1" description="Pokonaj Mew, Mewtwo, Shiny Mew i Shiny Mewtwo na północ od Nostrus." />
+        </mission>
+    </quest>
+
+    <quest name="Shiny Moltres Cinnabar" startstorageid="10226" startstoragevalue="0">
+        <mission name="Quest" storageid="10226" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Moltresa i Shiny Moltresa, znajdujących się na południe od Cinnabar." />
+            <missionstate id="1" description="Pokonaj Moltresa i Shiny Moltresa, znajdujących się na południe od Cinnabar." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Leaf" startstorageid="10227" startstoragevalue="0">
+        <mission name="Quest" storageid="10227" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Bayleefa i Brelooma, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Bayleefa i Brelooma, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Celebi" startstorageid="10228" startstoragevalue="0">
+        <mission name="Quest" storageid="10228" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Celebi, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Celebi, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Aquatica" startstorageid="10229" startstoragevalue="0">
+        <mission name="Quest" storageid="10229" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Lugię, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Lugię, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Psiquica" startstorageid="10230" startstoragevalue="0">
+        <mission name="Quest" storageid="10230" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Mew, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Mew, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Steel" startstorageid="10231" startstoragevalue="0">
+        <mission name="Quest" storageid="10231" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Registeela i Crystal Onixa, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Registeela i Crystal Onixa, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Fire" startstorageid="10232" startstoragevalue="0">
+        <mission name="Quest" storageid="10232" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Moltresa, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Moltresa, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Regirock" startstorageid="10233" startstoragevalue="0">
+        <mission name="Quest" storageid="10233" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Regirocka, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Regirocka, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Fight" startstorageid="10234" startstoragevalue="0">
+        <mission name="Quest" storageid="10234" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Hitmonlee, Hitmonchan i Hitmontopa, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Hitmonlee, Hitmonchan i Hitmontopa, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Poison" startstorageid="10235" startstoragevalue="0">
+        <mission name="Quest" storageid="10235" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Parasecta, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Parasecta, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Articuno" startstorageid="10236" startstoragevalue="0">
+        <mission name="Quest" storageid="10236" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Articuno i Dragonite'a, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Articuno i Dragonite'a, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Heart" startstorageid="10237" startstoragevalue="0">
+        <mission name="Quest" storageid="10237" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Shiftry i Ursaringa, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Shiftry i Ursaringa, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Nature" startstorageid="10238" startstoragevalue="0">
+        <mission name="Quest" storageid="10238" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Celebi, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Celebi, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Ice" startstorageid="10239" startstoragevalue="0">
+        <mission name="Quest" storageid="10239" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Dragonite'a i Wailorda, znajdujących się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Dragonite'a i Wailorda, znajdujących się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Zapdos" startstorageid="10240" startstoragevalue="0">
+        <mission name="Quest" storageid="10240" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Zapdosa, znajdującego się w Outlandzie." />
+            <missionstate id="1" description="Pokonaj Zapdosa, znajdującego się w Outlandzie." />
+        </mission>
+    </quest>
+
+    <quest name="Monte da Lua" startstorageid="10241" startstoragevalue="0">
+        <mission name="Quest" storageid="10241" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Przeszukaj miejsce, gdzie odbywa się rytuał kamienia księżycowego." />
+            <missionstate id="1" description="Po pokonaniu kilku dzikich Pokemonów i poszukiwaniach, zdobyłeś swoją nagrodę." />
+        </mission>
+    </quest>
+
+    <quest name="Cemiterio de Lavender" startstorageid="10242" startstoragevalue="0">
+        <mission name="Quest" storageid="10242" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Plotki głoszą, że niektóre kamienie zostały pochowane wraz ze swoim dawnym właścicielem na cmentarzu w Lavender." />
+            <missionstate id="1" description="Po przeszukaniu kilku grobów, znalazłeś swoją nagrodę." />
+        </mission>
+    </quest>
+
+    <quest name="Outland Shiny Celebi" startstorageid="10243" startstoragevalue="0">
+        <mission name="Quest" storageid="10243" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź i pokonaj Shiny Celebi w Outlandzie i odbierz swoją nagrodę." />
+            <missionstate id="1" description="Znajdź i pokonaj Shiny Celebi w Outlandzie i odbierz swoją nagrodę." />
+        </mission>
+    </quest>
+
+    <quest name="Mew Dungeon" startstorageid="10244" startstoragevalue="0">
+        <mission name="Quest" storageid="10244" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pomóż Redowi pokonać Mew." />
+            <missionstate id="1" description="Po zaciętej bitwie udało ci się pokonać potężnego Shiny Mew. Poinformuj Reda o swoim wyczynie!" />
+        </mission>
+    </quest>
+
+    <quest name="Cerulean Cave" startstorageid="10245" startstoragevalue="0">
+        <mission name="Wybór 1" storageid="10245" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź Jaskinię Cerulean i zbadaj ją na prośbę Profesora Oak. Ale bądź ostrożny, plotki mówią, że w jaskini mieszka potężny psychiczny Pokemon!" />
+            <missionstate id="1" description="Bitwa była długa i niezwykle trudna, a mimo to pokonałeś Shiny Mewtwo!" />
+        </mission>
+        <mission name="Wybór 2" storageid="10246" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź Jaskinię Cerulean i zbadaj ją na prośbę Profesora Oak. Ale bądź ostrożny, plotki mówią, że w jaskini mieszka potężny psychiczny Pokemon!" />
+            <missionstate id="1" description="Bitwa była długa i niezwykle trudna, a mimo to pokonałeś Shiny Mewtwo!" />
+        </mission>
+        <mission name="Wybór 3" storageid="10247" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź Jaskinię Cerulean i zbadaj ją na prośbę Profesora Oak. Ale bądź ostrożny, plotki mówią, że w jaskini mieszka potężny psychiczny Pokemon!" />
+            <missionstate id="1" description="Bitwa była długa i niezwykle trudna, a mimo to pokonałeś Shiny Mewtwo!" />
+        </mission>
+    </quest>
+
+    <quest name="Cold Portal" startstorageid="10248" startstoragevalue="0">
+        <mission name="Quest" storageid="10248" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Znajdź lodową wyspę, pokonaj jej Pokemony i odbierz swoją nagrodę ze skrzyni." />
+            <missionstate id="1" description="Znajdź lodową wyspę, pokonaj jej Pokemony i odbierz swoją nagrodę ze skrzyni." />
+        </mission>
+    </quest>
+
+    <quest name="Azalea Quest" startstorageid="10249" startstoragevalue="0">
+        <mission name="Quest" storageid="10249" startvalue="0" endvalue="1">
+            <missionstate id="0" description="W Azalea, pokonaj Pokemony z jaskini i odbierz swoją nagrodę." />
+            <missionstate id="1" description="W Azalea, pokonaj Pokemony z jaskini i odbierz swoją nagrodę." />
+        </mission>
+    </quest>
+
+    <quest name="Labirynt Latiosa" startstorageid="10250" startstoragevalue="0">
+        <mission name="Quest" storageid="10250" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Na zdradzieckiej wyspie, znajdź Latiosa, pokonaj go i odbierz swoją nagrodę." />
+            <missionstate id="1" description="Na zdradzieckiej wyspie, znajdź Latiosa, pokonaj go i odbierz swoją nagrodę." />
+        </mission>
+    </quest>
+
+    <quest name="Terror Quest" startstorageid="10251" startstoragevalue="0">
+        <mission name="Quest" storageid="10251" startvalue="0" endvalue="1">
+            <missionstate id="0" description="W Arcanii, pokonaj legendarne Pokemony i odbierz swoją nagrodę ze skrzyni." />
+            <missionstate id="1" description="W Arcanii, pokonaj legendarne Pokemony i odbierz swoją nagrodę ze skrzyni." />
+        </mission>
+    </quest>
+
+    <quest name="Secret Saffron" startstorageid="10252" startstoragevalue="0">
+        <mission name="Quest" storageid="10252" startvalue="0" endvalue="1">
+            <missionstate id="0" description="W Saffron, znajdź sekretną jaskinię, pokonaj Pokemony i odbierz swoją nagrodę ze skrzyni." />
+            <missionstate id="1" description="W Saffron, znajdź sekretną jaskinię, pokonaj Pokemony i odbierz swoją nagrodę ze skrzyni." />
+        </mission>
+    </quest>
+
+    <quest name="Indigo League" startstorageid="91007" startstoragevalue="0">
+        <mission name="Quest" storageid="91007" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Po pokonaniu wszystkich sal w Kanto, nadszedł czas na prawdziwe wyzwanie: Ligę Indigo!" />
+            <missionstate id="1" description="Pokazałeś swoje umiejętności, przechodząc przez Elitarną Czwórkę i swoją kompetencję, pokonując Blue, stając się najnowszym mistrzem Ligi Indigo!" />
+        </mission>
+    </quest>
+
+    <quest name="Boulder Badge" startstorageid="92000" startstoragevalue="0">
+        <mission name="Quest" storageid="92000" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Brocka w Pewter!" />
+            <missionstate id="1" description="Pokonałeś Brocka i otrzymałeś Odznakę Głazu." />
+        </mission>
+    </quest>
+
+    <quest name="Cascade Badge" startstorageid="92001" startstoragevalue="0">
+        <mission name="Quest" storageid="92001" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Misty w Cerulean!" />
+            <missionstate id="1" description="Pokonałeś Misty i otrzymałeś Odznakę Wodospadu." />
+        </mission>
+    </quest>
+
+    <quest name="Thunder Badge" startstorageid="92002" startstoragevalue="0">
+        <mission name="Quest" storageid="92002" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Lt. Surge'a w Vermilion!" />
+            <missionstate id="1" description="Pokonałeś Lt. Surge'a i otrzymałeś Odznakę Błyskawicy." />
+        </mission>
+    </quest>
+
+    <quest name="Rainbow Badge" startstorageid="92003" startstoragevalue="0">
+        <mission name="Quest" storageid="92003" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Erikę w Celadon!" />
+            <missionstate id="1" description="Pokonałeś Erikę i otrzymałeś Odznakę Tęczy." />
+        </mission>
+    </quest>
+
+    <quest name="Soul Badge" startstorageid="92004" startstoragevalue="0">
+        <mission name="Quest" storageid="92004" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Kogę w Fuchsia!" />
+            <missionstate id="1" description="Pokonałeś Kogę i otrzymałeś Odznakę Duszy." />
+        </mission>
+    </quest>
+
+    <quest name="Marsh Badge" startstorageid="92005" startstoragevalue="0">
+        <mission name="Quest" storageid="92005" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Sabrinę w Saffron!" />
+            <missionstate id="1" description="Pokonałeś Sabrinę i otrzymałeś Odznakę Bagienną." />
+        </mission>
+    </quest>
+
+    <quest name="Volcano Badge" startstorageid="92006" startstoragevalue="0">
+        <mission name="Quest" storageid="92006" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Blaine'a w Cinnabar!" />
+            <missionstate id="1" description="Pokonałeś Blaine'a i otrzymałeś Odznakę Wulkanu." />
+        </mission>
+    </quest>
+
+    <quest name="Earth Badge" startstorageid="92007" startstoragevalue="0">
+        <mission name="Quest" storageid="92007" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj Giovanniego w Viridian!" />
+            <missionstate id="1" description="Pokonałeś Giovanniego i otrzymałeś Odznakę Ziemi." />
+        </mission>
+    </quest>
+
+    <quest name="Zephyr Badge" startstorageid="92008" startstoragevalue="0">
+        <mission name="Quest" storageid="92008" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Hive Badge" startstorageid="92009" startstoragevalue="0">
+        <mission name="Quest" storageid="92009" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Plain Badge" startstorageid="92010" startstoragevalue="0">
+        <mission name="Quest" storageid="92010" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Fog Badge" startstorageid="92011" startstoragevalue="0">
+        <mission name="Quest" storageid="92011" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Storm Badge" startstorageid="92012" startstoragevalue="0">
+        <mission name="Quest" storageid="92012" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Mineral Badge" startstorageid="92013" startstoragevalue="0">
+        <mission name="Quest" storageid="92013" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Glacier Badge" startstorageid="92014" startstoragevalue="0">
+        <mission name="Quest" storageid="92014" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Rising Badge" startstorageid="92015" startstoragevalue="0">
+        <mission name="Quest" storageid="92015" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+            <missionstate id="1" description="Pokonaj lidera sali i zbierz swoją odznakę!" />
+        </mission>
+    </quest>
+
+    <quest name="Oak Request" startstorageid="92016" startstoragevalue="0">
+        <mission name="Quest" storageid="92016" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Profesor Oak docenia Twoje umiejętności po wygraniu Ligi Indigo i ma dla Ciebie nową prośbę." />
+            <missionstate id="1" description="Profesor Oak opowiada o Jaskini Cerulean i niebezpieczeństwach, które tam mieszkają." />
+        </mission>
+    </quest>
+
+    <quest name="The Pokemaster" startstorageid="92017" startstoragevalue="0">
+        <mission name="Quest" storageid="92017" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Oak potrzebuje Twojej pomocy, aby odnaleźć Mistrza Pokemon, który zaginął podczas swojej podróży." />
+            <missionstate id="1" description="Oak opowiada Ci o podróży Mistrza Pokemon w celu schwytania legendarnego Pokemona. Ostatnie wieści od Oak mówią, że znajdował się na szczycie góry na północny zachód od Kanto." />
+        </mission>
+    </quest>
+
+    <quest name="Red Request" startstorageid="92018" startstoragevalue="0">
+        <mission name="Quest" storageid="92018" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Spotkałeś Reda, wyzwałeś go i wygrałeś! Gratulacje! Ale teraz ma on ostatnią prośbę, zanim uzna Cię za Mistrza Pokemon. Pokonaj najsilniejszego legendarnego Pokemona z Kanto, którego nawet on nie był w stanie pokonać!" />
+            <missionstate id="1" description="Po pokonaniu Shiny Mew, Red uznaje Cię za Mistrza Pokemon i daje Ci starożytny artefakt. Używaj go z rozwagą!" />
+        </mission>
+    </quest>
+
+    <quest name="Catch'em All" startstorageid="92019" startstoragevalue="0">
+        <mission name="Quest" storageid="92019" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Pomóż w katalogowaniu Pokemonów do trzeciej generacji, łapiąc je. Następnie poszukaj swojej nagrody." />
+            <missionstate id="1" description="Po złapaniu wszystkich Pokemonów do trzeciej generacji, Oak daje Ci starożytny zwój jako nagrodę. I co teraz? Po tak ciężkiej pracy dostaję tylko stary papier. Twoja przyszłość z pewnością przyniesie wiele niespodzianek, dobrych i złych!!!" />
+        </mission>
+    </quest>
+
+    <quest name="Elder Man Request" startstorageid="92020" startstoragevalue="0">
+        <mission name="Quest" storageid="92020" startvalue="0" endvalue="1">
+            <missionstate id="0" description="Plotki głoszą o doświadczonym obywatelu, który posiada ważną wiedzę o przeszłości." />
+            <missionstate id="1" description="Pomogłeś Starcowi i zostałeś za to nagrodzony!" />
+        </mission>
+    </quest>
+
+</quests>
